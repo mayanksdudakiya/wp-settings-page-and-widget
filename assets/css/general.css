@@ -1,0 +1,28 @@
+#wp-setting-form .form-inner-wrapper {
+	background-color: #FFF;
+	padding: 20px;
+}
+
+#wp-setting-form .submit {
+	text-align: right;
+}
+
+#wp-setting-form .input-info {
+	display: block;
+	font-size: 12px;
+}
+
+#wp-setting-form .photo-upload {
+	display: block;
+}
+
+#wp-setting-form .photo-upload img {
+	max-height: 100%;
+	height: 100%;
+	height: 250px;
+}
+
+#wp-setting-form .wp-editor-wrap {
+	width: 60%;
+}
+
